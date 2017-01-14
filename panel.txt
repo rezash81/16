@@ -1,0 +1,7 @@
+pnlshowgauge
+pnl_show_digital_rain
+groupBox9 // rahbary
+pnlloaddata // tanzimat
+pnlshowdata // namayesh
+pnldatatransfer //connect_ftp
+pnlshowgauge /// data from web server

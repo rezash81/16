@@ -1,0 +1,7 @@
+### warning: not any sapce allowed in non-comment lines, it result in "bad formatted file" exception
+
+## RDL system static information
+
+## <Client GUID>, <System model name>, <serial number>, <ProductDateTime dash-seprated>, <HW Config fixed length Bytes array dash seprated><status 0=active, 1= out of order>
+## HW Config bytes: <HDD capacity: in MB>-
+8004c382-e53b-11e2-873c-26e562ac9346,UASCO_FirstVersion_Client,12345,2013-07-07-16-30-45,128-2-3-4,0

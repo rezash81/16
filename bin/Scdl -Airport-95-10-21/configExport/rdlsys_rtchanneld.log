@@ -1,0 +1,10 @@
+### new one from site! 7h45
+### warning: not any sapce allowed in non-comment lines, it result in "bad formatted file" exception
+
+## RDL system configuration
+
+#modification date_time
+2013,07,12,06,05,37
+
+#server info :<[servername] or  "-" as null>, <[server IP]>, <host name>, <server port>, 
+-,46.165.242.234,46.165.242.234,80

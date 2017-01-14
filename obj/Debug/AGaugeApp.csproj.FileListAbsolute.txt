@@ -1,0 +1,8 @@
+C:\Users\Hadian\Desktop\test-guage\4\bin\Debug\AGaugeApp.exe
+C:\Users\Hadian\Desktop\test-guage\4\bin\Debug\AGaugeApp.pdb
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Form1.resources
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Properties.Resources.resources
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.csproj.GenerateResource.Cache
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.exe
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.pdb
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Form2.resources

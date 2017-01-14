@@ -1,0 +1,83 @@
+C:\Users\Hadian\Desktop\test-guage\4\bin\Debug\SCDL.exe
+C:\Users\Hadian\Desktop\test-guage\4\bin\Debug\SCDL.pdb
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Form1.resources
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Form2.resources
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\AGaugeApp.Properties.Resources.resources
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\SCDL.csproj.GenerateResource.Cache
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\SCDL.exe
+C:\Users\Hadian\Desktop\test-guage\4\obj\Debug\SCDL.pdb
+C:\Users\Hadian\Desktop\test-guage\4\bin\Debug\SCDL.exe.config
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\bin\Debug\SCDL.exe.config
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\bin\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\bin\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.Form1.resources
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.Form2.resources
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.Properties.Resources.resources
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\SCDL.csproj.GenerateResource.Cache
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.FrmLogo.resources
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.FrmMain.resources
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\SCDL.csproj.ResolveComReference.cache
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\bin\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\Scdl - 16 channel- gauge\obj\Debug\AGaugeApp.Form3.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\bin\Debug\SCDL.exe.config
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\SCDL.csproj.ResolveComReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\bin\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\bin\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\bin\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.Form1.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.Form2.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.Form3.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.FrmLogo.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.FrmMain.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\AGaugeApp.Properties.Resources.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge\obj\Debug\SCDL.csproj.GenerateResource.Cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\SCDL.exe.config
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\SCDL.csproj.ResolveComReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.Form1.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.Form2.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.Form3.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.FrmLogo.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.FrmMain.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\AGaugeApp.Properties.Resources.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\obj\Debug\SCDL.csproj.GenerateResource.Cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport\bin\Debug\BatteryGadget.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\SCDL.exe.config
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.csproj.ResolveComReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\SCDL.exe
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\SCDL.pdb
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\BatteryGadget.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\Interop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.Form1.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.Form2.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.Form3.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.FrmLogo.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.FrmMain.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.Properties.Resources.resources
+D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.csproj.GenerateResource.Cache

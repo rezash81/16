@@ -1,0 +1,282 @@
+2016-7-2*10:20:17*+         Alarm : Start Rain With Rate :0.8 mm
++Station : Test Hadian+  10:20:17
++Total Rain :361.4
++Rain 12 hour :1.4mm
++Rain 24 hour :1.4mm+&1*
+##################################################
+2016-7-2*14:48:58*+         Alarm : Start Rain With Rate :0.3 mm
+
++Station : Test Hadian+  14:48:58
++Total Rain :361.7
++Rain 12 hour :1.7mm
++Rain 24 hour :1.7mm+&1*
+
+##################################################
+
+2016-7-2*14:59:8*+         Alarm : Start Rain With Rate :0.3 mm
+
++Station : Test Hadian+  14:48:58
++Total Rain :361.7
++Rain 12 hour :1.7mm
++Rain 24 hour :1.7mm+&1*
+
+##################################################
+
+2016-7-2*15:35:55*+         Alarm : Start Rain With Rate :0.1 mm
+
++Station : Test Hadian+  15:35:55
++Total Rain :361.8
++Rain 12 hour :1.8mm
++Rain 24 hour :1.8mm+&1*
+
+##################################################
+
+2016-7-2*15:46:0*+         Alarm : Start Rain With Rate :0.1 mm
+
++Station : Test Hadian+  15:35:55
++Total Rain :361.8
++Rain 12 hour :1.8mm
++Rain 24 hour :1.8mm+&1*
+
+##################################################
+
+2016-7-2*18:59:3*+         Alarm : Start Rain With Rate :0.2 mm
+
++Station : Test Hadian+  18:59:3
++Total Rain :362
++Rain 12 hour :0.2mm
++Rain 24 hour :0.2mm+&1*
+
+##################################################
+
+2016-7-2*19:9:8*+         Alarm : Start Rain With Rate :0.2 mm
+
++Station : Test Hadian+  18:59:3
++Total Rain :362
++Rain 12 hour :0.2mm
++Rain 24 hour :0.2mm+&1*
+
+##################################################
+
+2016-7-2*19:23:20*+         Alarm : Start Rain With Rate :3 mm
+
++Station : Test Hadian+  19:23:20
++Total Rain :365
++Rain 12 hour :3.2mm
++Rain 24 hour :3.2mm+&1*
+
+##################################################
+
+2016-7-2*19:23:20*+         Alarm : Rate Total  in 2 Hour  : Rain Is Heavy : 3 mm
+
++Station : Test Hadian+  19:23:20
++Total Rain :365
++Rain 12 hour :3.2mm
++Rain 24 hour :3.2mm+&2*
+
+##################################################
+
+2016-7-2*19:29:23*+         Alarm : Rate Total  in 2 Hour  : Rain Is Heavy : 3.2 mm
+
++Station : Test Hadian+  19:29:23
++Total Rain :368.2
++Rain 12 hour :6.4mm
++Rain 24 hour :6.4mm+&2*
+
+##################################################
+
+2016-7-2*19:30:24*+         Alarm : Rate Total  in 2 Hour  : Rain Is Heavy : 3.80001 mm
+
++Station : Test Hadian+  19:30:24
++Total Rain :372
++Rain 12 hour :10.2mm
++Rain 24 hour :10.2mm+&2*
+
+##################################################
+
+2016-7-2*19:30:24*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 1.4 mm
+
++Station : Test Hadian+  19:30:24
++Total Rain :372+&3*
+
+##################################################
+
+2016-7-2*19:40:29*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 1.4 mm
+
++Station : Test Hadian+  19:30:24
++Total Rain :372+&3*
+
+##################################################
+
+2016-7-3*9:3:52*+         Alarm : Start Rain With Rate :0.3 mm
+
++Station : Test Hadian+  9:3:52
++Total Rain :372.3
++Rain 12 hour :0.3mm
++Rain 24 hour :10.5mm+&1*
+
+##################################################
+
+2016-7-3*9:13:57*+         Alarm : Rain Is Finished:Amount Of Rain:0 mm
+
++Station : Test Hadian  9:13:57
++Start Time :9:3:47
++End Time :9:13:57
++Total Rain :372.3+&4+*
+
+##################################################
+
+2016-7-3*9:42:58*+         Alarm : Start Rain With Rate :0.4 mm
+
++Station : Test Hadian+  9:42:58
++Total Rain :372.7
++Rain 12 hour :0.7mm
++Rain 24 hour :10.9mm+&1*
+
+##################################################
+
+2016-7-3*9:53:3*+         Alarm : Rain Is Finished:Amount Of Rain:0 mm
+
++Station : Test Hadian  9:53:3
++Start Time :9:42:58
++End Time :9:53:3
++Total Rain :372.7+&4+*
+
+##################################################
+
+2016-7-4*0:18:13*+         Alarm : Start Rain With Rate :3.9 mm
+
++Station : Test Hadian+  0:18:13
++Total Rain :376.6
++Rain 12 hour :3.9mm
++Rain 24 hour :3.9mm+&1*
+
+##################################################
+
+2016-7-4*0:18:13*+         Alarm : Rate Total  in 2 Hour  : Rain Is Heavy : 3.9 mm
+
++Station : Test Hadian+  0:18:13
++Total Rain :376.6
++Rain 12 hour :3.9mm
++Rain 24 hour :3.9mm+&2*
+
+##################################################
+
+2016-7-4*0:19:19*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 1.66 mm
+
++Station : Test Hadian+  0:19:19
++Total Rain :381+&3*
+
+##################################################
+
+2016-7-4*0:29:23*+         Alarm : Rain Is Finished:Amount Of Rain:0 mm
+
++Station : Test Hadian  0:29:23
++Start Time :0:18:13
++End Time :0:29:23
++Total Rain :381+&4+*
+
+##################################################
+
+2016-7-9*14:33:26*+         Alarm : Start Rain With Rate :0.5 mm
++Station : Test Hadian+  14:33:26
++Total Rain :381.5
++Rain 12 hour :0.5mm
++Rain 24 hour :0.5mm+&1*
+##################################################
+2016-7-9*14:43:36*+         Alarm : Rain Is Finished:Amount Of Rain:0.5 mm
++Station : Test Hadian  14:43:36
++Start Time :14:33:26
++End Time :14:43:36
++Total Rain :381.5+&4+*
+##################################################
+2016-7-11*12:5:54*+         Alarm : Start Rain With Rate :749.452 mm
++Station : Test Hadian+  12:5:54
++Total Rain :1130.95
++Rain 12 hour :749.452mm
++Rain 24 hour :749.452mm+&1*
+##################################################
+2016-7-11*12:5:54*+         Alarm : Rain Is Heavy : 749.452 mm
++Station : Test Hadian+  12:5:54
++Total Rain :1130.95
++Rain 12 hour :749.452mm
++Rain 24 hour :749.452mm+&2*
+##################################################
+2016-7-11*12:5:54*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 149.89 mm
++Station : Test Hadian+  12:5:54
++Total Rain :1130.95+&3*
+##################################################
+2016-7-11*13:5:55*+         Alarm : Start Rain With Rate :749.454 mm
++Station : Test Hadian+  13:5:55
++Total Rain :1880.4
++Rain 12 hour :1498.91mm
++Rain 24 hour :1498.91mm+&1*
+##################################################
+2016-7-11*13:5:55*+         Alarm : Rain Is Heavy : 749.454 mm
++Station : Test Hadian+  13:5:55
++Total Rain :1880.4
++Rain 12 hour :1498.91mm
++Rain 24 hour :1498.91mm+&2*
+##################################################
+2016-7-11*13:5:55*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 149.891 mm
++Station : Test Hadian+  13:5:55
++Total Rain :1880.4+&3*
+##################################################
+2016-7-11*13:8:27*+         Alarm : Start Rain With Rate :749.454 mm
++Station : Test Hadian+  13:8:27
++Total Rain :2629.85
++Rain 12 hour :2248.36mm
++Rain 24 hour :2248.36mm+&1*
+##################################################
+2016-7-11*13:8:27*+         Alarm : Rain Is Heavy : 749.454 mm
++Station : Test Hadian+  13:8:27
++Total Rain :2629.85
++Rain 12 hour :2248.36mm
++Rain 24 hour :2248.36mm+&2*
+##################################################
+2016-7-11*13:8:32*+         Alarm : AVG in 5 minute  : Rain Is Heavy: 149.891 mm
++Station : Test Hadian+  13:8:27
++Total Rain :2629.85+&3*
+##################################################
+2016-7-15*12:6:23*+         Alarm : Start Rain With Rate :1.9 mm
++Station : Test Hadian+  12:6:23
++Total Rain :301.9
++Rain 12 hour :1.9mm
++Rain 24 hour :1.9mm+&1*
+##################################################
+2016-7-15*12:15:43*+         Alarm : Start Rain With Rate :1.9 mm
++Station : Test Hadian+  12:15:43
++Total Rain :303.8
++Rain 12 hour :3.8mm
++Rain 24 hour :3.8mm+&1*
+##################################################
+2016-7-15*12:22:25*+         Alarm : Start Rain With Rate :1.9 mm
++Station : Test Hadian+  12:22:25
++Total Rain :305.7
++Rain 12 hour :5.7mm
++Rain 24 hour :5.7mm+&1*
+##################################################
+2016-7-20*5:15:17*+         Alarm : Start Rain With Rate :0.1 mm
++Station : Test Hadian+  5:15:17
++Total Rain :305.8
++Rain 12 hour :5.8mm
++Rain 24 hour :5.8mm+&1*
+##################################################
+2016-7-20*5:29:30*+         Alarm : Rain Is Finished:Amount Of Rain:1 mm
++Station : Test Hadian  5:29:30
++Start Time :5:15:17
++End Time :5:29:30
++Total Rain :306.7+&4+*
+##################################################
+2016-7-20*6:33:49*+         Alarm : Start Rain With Rate :0.4 mm
++Station : Test Hadian+  6:33:49
++Total Rain :307.1
++Rain 12 hour :0.4mm
++Rain 24 hour :7.1mm+&1*
+##################################################
+2016-7-20*6:44:1*+         Alarm : Rain Is Finished:Amount Of Rain:0.4 mm
++Station : Test Hadian  6:44:1
++Start Time :6:33:49
++End Time :6:44:1
++Total Rain :307.1+&4+*
+##################################################
