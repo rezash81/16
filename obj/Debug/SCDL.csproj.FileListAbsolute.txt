@@ -81,3 +81,21 @@ D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\
 D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.FrmMain.resources
 D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\AGaugeApp.Properties.Resources.resources
 D:\projects\uas\SCDL Version\Programm\SCDL _16_ channel_gauge & Airport95-10-23\obj\Debug\SCDL.csproj.GenerateResource.Cache
+C:\Users\Reza\Documents\GitHub\16\bin\Debug\SCDL.exe.config
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\Interop.WMPLib.dll
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\SCDL.csproj.ResolveComReference.cache
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\SCDL.exe
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\SCDL.pdb
+C:\Users\Reza\Documents\GitHub\16\bin\Debug\SCDL.exe
+C:\Users\Reza\Documents\GitHub\16\bin\Debug\SCDL.pdb
+C:\Users\Reza\Documents\GitHub\16\bin\Debug\Interop.WMPLib.dll
+C:\Users\Reza\Documents\GitHub\16\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.Form1.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.Form2.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.Form3.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.FrmLogo.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.FrmMain.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\AGaugeApp.Properties.Resources.resources
+C:\Users\Reza\Documents\GitHub\16\obj\Debug\SCDL.csproj.GenerateResource.Cache

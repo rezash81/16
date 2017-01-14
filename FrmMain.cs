@@ -19292,7 +19292,7 @@ namespace AGaugeApp
 
         private void panel16_Click(object sender, System.EventArgs e)
         {
-
+            //gggggg
             timer.Enabled = false;
             
             if (allow_average_values == false) /// for rotate data for graph
