@@ -105,3 +105,15 @@ D:\projects\GitHub\16\16\obj\Debug\AxInterop.WMPLib.dll
 D:\projects\GitHub\16\16\obj\Debug\SCDL.csproj.ResolveComReference.cache
 D:\projects\GitHub\16\16\obj\Debug\SCDL.exe
 D:\projects\GitHub\16\16\obj\Debug\SCDL.pdb
+D:\projects\GitHub\16\16\bin\Debug\SCDL.exe
+D:\projects\GitHub\16\16\bin\Debug\SCDL.pdb
+D:\projects\GitHub\16\16\bin\Debug\Interop.WMPLib.dll
+D:\projects\GitHub\16\16\bin\Debug\AxInterop.WMPLib.dll
+D:\projects\GitHub\16\16\obj\Debug\SCDL.csprojResolveAssemblyReference.cache
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.Form1.resources
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.Form2.resources
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.Form3.resources
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.FrmLogo.resources
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.FrmMain.resources
+D:\projects\GitHub\16\16\obj\Debug\AGaugeApp.Properties.Resources.resources
+D:\projects\GitHub\16\16\obj\Debug\SCDL.csproj.GenerateResource.Cache

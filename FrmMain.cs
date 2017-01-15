@@ -2313,7 +2313,7 @@ namespace AGaugeApp
                 if (glb_version_number == 2)
                 {
 
-                    return;
+                  //  return;
                 
                 }
 
@@ -2428,8 +2428,8 @@ namespace AGaugeApp
 
                 for (int k = 0; k < ds.Tables[0].Rows.Count; k++)
                 {
-                    leftside = (ds.Tables[0].Rows[k][2].ToString());
-                    rightside = (ds.Tables[0].Rows[k][3].ToString());
+                    leftside = (ds.Tables[0].Rows[k][3].ToString());
+                    rightside = (ds.Tables[0].Rows[k][4].ToString());
 
 
                     datcalibration = datcalibration + leftside + "=" + rightside + ",";
@@ -2476,8 +2476,11 @@ namespace AGaugeApp
             filewriter.Close();
 
             progfetchsensors.Value = 100;
-          //  lblstatus.Text = "پایان مرحله خروجی فایل";
+            //  lblstatus.Text = "پایان مرحله خروجی فایل";
 
+
+            //this.Close();
+            //Application.Exit();
 
 
 
@@ -3721,12 +3724,12 @@ namespace AGaugeApp
             {
 
 
-                tabControl1.TabPages.Remove(tabPage1);
+              //  tabControl1.TabPages.Remove(tabPage1);
                 tabControl1.TabPages.Remove(tabPage6);
                 tabControl1.TabPages.Remove(tabPage3);
                 tabControl1.TabPages.Remove(tabPage5);
                 tabControl1.TabPages.Remove(tabPage9);
-                tabControl1.TabPages.Remove(tabPage2);
+               // tabControl1.TabPages.Remove(tabPage2);
 
             }
 
@@ -5078,7 +5081,7 @@ namespace AGaugeApp
 
 
 
-            da.SelectCommand = new OleDbCommand("select * from tbltempCalibration  where namesensorEn='" + cmbshowsensors.Text + "'  order by numm", myconn);
+            da.SelectCommand = new OleDbCommand("select channel_index,numm,valuee,calibrationValue from tbltempCalibration  where namesensorEn='" + cmbshowsensors.Text + "'  order by numm", myconn);
             da.Fill(ds, "tbltempCalibration");
             dt = ds.Tables["tbltempCalibration"];
 
@@ -5102,8 +5105,27 @@ namespace AGaugeApp
 
 
 
-            datagridloadtempcalibrationdata.Columns[0].HeaderText = "نام سنسور";
+            ////datagridloadtempcalibrationdata.Columns[0].HeaderText = "نام سنسور";
 
+            ////datagridloadtempcalibrationdata.Columns[1].HeaderText = "شماره ردیف";
+
+            ////datagridloadtempcalibrationdata.Columns[2].HeaderText = "مقدار فیزیکی";
+
+
+
+            ////datagridloadtempcalibrationdata.Columns[3].HeaderText = "مقدار پارامتر";
+
+            ////datagridloadtempcalibrationdata.Columns[4].HeaderText = " نام اختصاری کانال ";
+
+
+            ////datagridloadtempcalibrationdata.Columns[1].Visible = false;
+            ////datagridloadtempcalibrationdata.Columns[2].Visible = false;
+            ////datagridloadtempcalibrationdata.Columns[5].Visible = false;
+            //  datagridloadtempcalibrationdata.Columns[0].Visible = false;
+
+
+
+            datagridloadtempcalibrationdata.Columns[0].HeaderText = "شماره کانال";
             datagridloadtempcalibrationdata.Columns[1].HeaderText = "شماره ردیف";
 
             datagridloadtempcalibrationdata.Columns[2].HeaderText = "مقدار فیزیکی";
@@ -5112,9 +5134,14 @@ namespace AGaugeApp
 
             datagridloadtempcalibrationdata.Columns[3].HeaderText = "مقدار پارامتر";
 
-            datagridloadtempcalibrationdata.Columns[4].HeaderText = " نام اختصاری کانال ";
 
-         //   datagridloadtempcalibrationdata.Columns[4].ReadOnly = true;
+
+
+
+
+
+
+            //   datagridloadtempcalibrationdata.Columns[4].ReadOnly = true;
 
 
 
@@ -5203,15 +5230,18 @@ namespace AGaugeApp
 
                 DataRow oOrderRow1 = oDS1.Tables["tbltempCalibration"].NewRow();
 
-                oOrderRow1["channel_name_persian"] = datagridloadtempcalibrationdata.Rows[i].Cells[0].Value.ToString();
+                //   oOrderRow1["channel_name_persian"] = datagridloadtempcalibrationdata.Rows[i].Cells[0].Value.ToString();
 
-                oOrderRow1["numm"] = datagridloadtempcalibrationdata.Rows[i].Cells[1].Value.ToString(); ;
+                oOrderRow1["channel_index"] = datagridloadtempcalibrationdata.Rows[i].Cells[0].Value.ToString();
+
+                oOrderRow1["numm"] = datagridloadtempcalibrationdata.Rows[i].Cells[1].Value.ToString(); 
 
                 oOrderRow1["valuee"] = int.Parse(datagridloadtempcalibrationdata.Rows[i].Cells[2].Value.ToString());     ////add persian to show users
 
                 oOrderRow1["calibrationValue"] = Double.Parse(datagridloadtempcalibrationdata.Rows[i].Cells[3].Value.ToString());
 
-                oOrderRow1["namesensorEn"] = datagridloadtempcalibrationdata.Rows[i].Cells[4].Value.ToString(); ;
+                //  oOrderRow1["namesensorEn"] = datagridloadtempcalibrationdata.Rows[i].Cells[4].Value.ToString(); ;
+                oOrderRow1["namesensorEn"] = cmbshowsensors.Text.ToString();
 
 
                 oDS1.Tables["tbltempCalibration"].Rows.Add(oOrderRow1);

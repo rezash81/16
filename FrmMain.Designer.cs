@@ -1477,7 +1477,7 @@
             this.pnlloaddata.Controls.Add(this.label9);
             this.pnlloaddata.Controls.Add(this.pictureBox7);
             this.pnlloaddata.Controls.Add(this.groupBox4);
-            this.pnlloaddata.Location = new System.Drawing.Point(2000, 263);
+            this.pnlloaddata.Location = new System.Drawing.Point(300, 135);
             this.pnlloaddata.Name = "pnlloaddata";
             this.pnlloaddata.Size = new System.Drawing.Size(718, 426);
             this.pnlloaddata.TabIndex = 21;
@@ -2913,7 +2913,7 @@
             this.label99.Size = new System.Drawing.Size(309, 51);
             this.label99.TabIndex = 87;
             this.label99.Text = "چنانچه قصد تغییر مقادیر باران را دارید حتما بر روی گزینه ی توقف سیستم کلیک نمایید" +
-                "  و بعد از ارسال به سیستم به صورت فیزیکی سیستم را راه اندازی مجدد نمایید";
+    "  و بعد از ارسال به سیستم به صورت فیزیکی سیستم را راه اندازی مجدد نمایید";
             // 
             // pic_stop_system
             // 
